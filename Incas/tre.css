@@ -1,0 +1,31 @@
+h1{
+box-shadow: 10px 10px 10px black;
+background-color: #ff5733;
+font-size: 444% ;
+text-align: center;
+}
+
+body{
+background-color: lightyellow;
+}
+
+h2{
+color: darkblue;
+font-size: 180%;
+  border: 5px solid blue;
+top: 40px; left: 40px;
+Padding: 90px;
+Margin : 10px;
+
+
+
+}
+
+p{
+font-size: 130%;
+  border: 5px solid lawngreen;
+top: 70px; left: 70px;
+line-height: 1.7;
+Padding: 50px;
+Margin : 10px;
+}

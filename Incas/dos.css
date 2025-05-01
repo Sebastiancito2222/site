@@ -1,0 +1,32 @@
+h1{
+padding: 10px;
+  font-size: 148px;
+  background-color: yellowgreen;
+  color: maroon;
+  border: none;
+text-align: center;
+}
+
+body{
+background-color:goldenrod;
+}
+
+h2{
+  color: indianred;
+  box-shadow: 10px 10px ;
+font-size: 152px;
+font-size: 1.7em;
+Padding: 100px;
+Margin : 10px;
+}
+
+p{
+  color:darkblue;
+border: solid cyan;
+ padding: 5% 10%
+font-size: 102px;
+font-size: 1.6em;
+line-height: 1.5;
+Padding: 50px;
+Margin : 10px;
+}

@@ -1,0 +1,31 @@
+body{
+background-color: burlywood;
+}
+
+h1{
+text-align: center;
+color:saddlebrown;
+font-family: Georgia, serif;
+font-size: 152px;
+font-size: 1.9em;
+}
+
+h2{
+color:teal;
+font-family: Monaco;
+font-size: 132px;
+font-size: 1.8em;
+Padding: 80px;
+Margin : 10px;
+}
+
+p{
+color:slategray;
+  box-shadow: 11px 11px ;
+font-size: 112px;
+font-size: 1.7em;
+font-family: Times New Roman;
+Padding: 50px;
+Margin : 10px;
+
+}
